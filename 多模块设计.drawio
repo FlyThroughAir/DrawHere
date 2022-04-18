@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:07:01.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="kSGkcNNpeZl2cjOUHA2X" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:15:53.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="uAgtfXfJUqoTckBShI-I" version="17.4.4" type="github">
   <diagram id="GQeWL2nTSIG87tDZNMUT" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,19 +37,19 @@
         <mxCell id="caog0tyJu0MzEItGIJM4-6" value="函数插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="600" y="140" width="246" height="297.5" as="geometry" />
         </mxCell>
-        <mxCell id="KhDFo-M1c330gRiOqBZQ-16" value="权限拦截函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="KhDFo-M1c330gRiOqBZQ-16" value="权限拦截插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="730" y="188.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KhDFo-M1c330gRiOqBZQ-17" value="异常监听函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="KhDFo-M1c330gRiOqBZQ-17" value="异常监听插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="612" y="188.5" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KhDFo-M1c330gRiOqBZQ-18" value="流控拦截函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="KhDFo-M1c330gRiOqBZQ-18" value="流控拦截插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="612" y="318.5" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KhDFo-M1c330gRiOqBZQ-20" value="配置加载函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="KhDFo-M1c330gRiOqBZQ-20" value="配置加载插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="730" y="256" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="caog0tyJu0MzEItGIJM4-5" value="打点监听函数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="caog0tyJu0MzEItGIJM4-5" value="打点监听插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="612" y="256" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="caog0tyJu0MzEItGIJM4-9" value="存储插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="KhDFo-M1c330gRiOqBZQ-15" value="pika" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="474" y="376" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="caog0tyJu0MzEItGIJM4-10" value="函数管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="caog0tyJu0MzEItGIJM4-10" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="260" y="256" width="120" height="56" as="geometry" />
         </mxCell>
       </root>
