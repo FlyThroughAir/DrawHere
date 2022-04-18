@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T08:19:46.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.4" etag="RbyEOM5Dl7raoUqinRiL" type="github"><diagram id="V_NQ6YeQbFit21G6dxK0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-18T09:08:38.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="d1hOwsDe44iofim0im7H" version="17.4.5" type="github">
+  <diagram id="V_NQ6YeQbFit21G6dxK0" name="Page-1">
+    <mxGraphModel dx="1278" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-1" value="&lt;b&gt;用户客户端&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="130" y="144" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-2" value="直连API SDK" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="184" width="490" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zO7TlOxyrzOrWe3tpxwk-3" target="zO7TlOxyrzOrWe3tpxwk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-3" value="Havok配置服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-5" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="510" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.157;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="zO7TlOxyrzOrWe3tpxwk-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="294" as="sourcePoint" />
+            <mxPoint x="210" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-7" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-8" value="Memcache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-9" value="Hbase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-10" value="直接访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-15" value="代理访问" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-4" value="RpcServer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zO7TlOxyrzOrWe3tpxwk-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.549;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="284" as="sourcePoint" />
+            <mxPoint x="450" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
