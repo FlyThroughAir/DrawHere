@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T11:48:22.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="UA9Pq2908SBCStNfvpIL" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T11:51:35.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="6I0U35UR1T3uX-mWY8gu" version="17.4.5" type="github">
   <diagram id="X3zTXtMCyuv4FWjrRz_l" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="363" y="181" width="100" height="510" as="geometry" />
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="foJhIB84stxTUKPJNIPw-1">
-          <mxGeometry x="44" y="405" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="360" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-2" value="Config Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="543" y="181" width="100" height="510" as="geometry" />
@@ -30,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="foJhIB84stxTUKPJNIPw-2">
-          <mxGeometry x="45" y="395" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="350" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="foJhIB84stxTUKPJNIPw-2">
           <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
@@ -54,12 +54,12 @@
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-13" value="回调客户端：有配置信息变动" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;exitX=0.1;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="foJhIB84stxTUKPJNIPw-12" parent="1" source="foJhIB84stxTUKPJNIPw-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477" y="586" as="sourcePoint" />
+            <mxPoint x="477" y="587" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-14" value="客户端更新成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;rounded=0;" edge="1" source="foJhIB84stxTUKPJNIPw-12" parent="1" target="foJhIB84stxTUKPJNIPw-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="477" y="643" as="targetPoint" />
+            <mxPoint x="477" y="644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="foJhIB84stxTUKPJNIPw-17" value="更新API配置" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="foJhIB84stxTUKPJNIPw-16" parent="1" source="foJhIB84stxTUKPJNIPw-3">
