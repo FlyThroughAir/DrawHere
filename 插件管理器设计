@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T08:55:10.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GcSvns4zjZj_W_137_VJ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T09:05:31.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KU1SIfT2G1sJzNiMmBiP" version="17.4.5" type="github">
   <diagram id="lOb1-YgaaW4QgQorSt-5" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-19" target="wcnji4mcHj_Y7mUQzhTi-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-19" value="执行存储访问组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-19" value="执行存储访问插件组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="128" y="1580" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-21" target="wcnji4mcHj_Y7mUQzhTi-25">
