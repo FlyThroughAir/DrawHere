@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T09:24:27.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="bjBJbZNU3HUSB80gRzoJ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T06:42:02.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Nx0GOcuzcdObL7w0TRp5" version="17.4.5" type="github">
   <diagram id="GQeWL2nTSIG87tDZNMUT" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="43" y="549" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KhDFo-M1c330gRiOqBZQ-7" value="存储访问管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="68" y="487.5" width="120" height="32" as="geometry" />
+          <mxGeometry x="68" y="487.5" width="204" height="32" as="geometry" />
         </mxCell>
         <mxCell id="KhDFo-M1c330gRiOqBZQ-11" value="接口层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="43" y="339" width="330" height="60" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry x="437" y="575" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="caog0tyJu0MzEItGIJM4-10" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="228" y="487.5" width="120" height="32" as="geometry" />
+          <mxGeometry x="68" y="447.5" width="204" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CGGrDUPs-Wo5I1myl7fO-1" value="元数据管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="68" y="447.5" width="280" height="32" as="geometry" />
+        <mxCell id="CGGrDUPs-Wo5I1myl7fO-1" value="元数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="283" y="447.5" width="65" height="71.5" as="geometry" />
         </mxCell>
         <mxCell id="CGGrDUPs-Wo5I1myl7fO-2" value="监听插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="723" y="339" width="140" height="297.5" as="geometry" />
@@ -79,13 +79,13 @@
         <mxCell id="g6kbwPgoMr0WFrOHUzp--2" value="&lt;b&gt;Config Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3" y="129" width="890" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--3" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--3" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="122" y="179" width="141" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--4" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--4" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="393" y="179" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--5" value="指令控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--5" value="指令控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="643" y="179" width="121" height="40" as="geometry" />
         </mxCell>
       </root>
