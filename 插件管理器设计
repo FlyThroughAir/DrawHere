@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T09:10:34.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VvO2GvmbgUTqOpNwIwYG" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T09:13:23.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="m4zA4-dgF2suUAKmvxl1" version="17.4.5" type="github">
   <diagram id="lOb1-YgaaW4QgQorSt-5" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,31 +58,31 @@
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-6" target="wcnji4mcHj_Y7mUQzhTi-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-6" value="接口转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-6" value="接口转换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="128" y="1340" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-10" target="wcnji4mcHj_Y7mUQzhTi-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-10" value="选择器选择插件组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-10" value="选择器选择插件组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="128" y="1480" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-14" target="wcnji4mcHj_Y7mUQzhTi-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-14" value="执行前置插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-14" value="执行前置插件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="128" y="1550" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-19" target="wcnji4mcHj_Y7mUQzhTi-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-19" value="执行存储访问插件组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-19" value="执行存储访问插件组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="128" y="1626" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-21" target="wcnji4mcHj_Y7mUQzhTi-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-21" value="执行后置插件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-21" value="执行后置插件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="128" y="1700" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-23" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-25" target="wcnji4mcHj_Y7mUQzhTi-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-25" value="接口转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-25" value="接口转换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="128" y="1776" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wcnji4mcHj_Y7mUQzhTi-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wcnji4mcHj_Y7mUQzhTi-28" target="wcnji4mcHj_Y7mUQzhTi-23">
@@ -108,7 +108,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wcnji4mcHj_Y7mUQzhTi-31" value="元数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wcnji4mcHj_Y7mUQzhTi-31" value="元数据绑定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="128" y="1410" width="124" height="40" as="geometry" />
         </mxCell>
       </root>
