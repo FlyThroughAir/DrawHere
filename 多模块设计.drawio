@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T03:27:29.365Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3OhkCkZwsBFK9zFX69rL" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T03:39:39.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yzUlQyAiFZ5ujyNb-Qhw" version="17.4.5" type="github">
   <diagram id="GQeWL2nTSIG87tDZNMUT" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,20 +100,54 @@
         <mxCell id="g4aInVaGI_5vyMNu5kUT-4" value="元数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="746.5" width="65" height="71.5" as="geometry" />
         </mxCell>
-        <mxCell id="g4aInVaGI_5vyMNu5kUT-5" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;统一链路层&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="1022" width="668" height="271" as="geometry" />
         </mxCell>
-        <mxCell id="g4aInVaGI_5vyMNu5kUT-6" value="存储访问管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="1081" width="385" height="77" as="geometry" />
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4aInVaGI_5vyMNu5kUT-6" target="g4aInVaGI_5vyMNu5kUT-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g4aInVaGI_5vyMNu5kUT-7" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="84.5" y="1191" width="385" height="79" as="geometry" />
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-6" value="存储访问管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="1193" width="277" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4aInVaGI_5vyMNu5kUT-7" target="g4aInVaGI_5vyMNu5kUT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-7" value="插件调度管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="1062" width="277" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g4aInVaGI_5vyMNu5kUT-8" target="g4aInVaGI_5vyMNu5kUT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-25" value="加载元数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="g4aInVaGI_5vyMNu5kUT-23">
+          <mxGeometry x="-0.2112" y="5" relative="1" as="geometry">
+            <mxPoint x="10" y="-24" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g4aInVaGI_5vyMNu5kUT-8" value="元数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="1081" width="135" height="189" as="geometry" />
+          <mxGeometry x="73" y="1062" width="135" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.007;exitY=0.155;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;" edge="1" parent="1" source="g4aInVaGI_5vyMNu5kUT-9" target="g4aInVaGI_5vyMNu5kUT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-24" value="加载插件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="g4aInVaGI_5vyMNu5kUT-19">
+          <mxGeometry x="-0.2937" y="1" relative="1" as="geometry">
+            <mxPoint x="15" y="-12" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g4aInVaGI_5vyMNu5kUT-9" value="附加插件库" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="731.5" y="1022" width="245" height="271" as="geometry" />
+          <mxGeometry x="815" y="1022" width="147" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-13" value="插件1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="837.5" y="1067" width="103" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-14" value="插件2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="837.5" y="1119" width="103" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-15" value="插件3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1171" width="103" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-16" value="插件4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1223" width="103" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
