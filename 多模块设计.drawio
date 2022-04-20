@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T07:02:13.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="fhnn4Isfs9-U3OHmkXD5" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T03:24:55.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EpXAr1PIF00MUm3746zy" version="17.4.5" type="github">
   <diagram id="GQeWL2nTSIG87tDZNMUT" name="Page-1">
     <mxGraphModel dx="1278" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;直连API SDK&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;直连API SDK&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3" y="249" width="890" height="410" as="geometry" />
         </mxCell>
         <mxCell id="KhDFo-M1c330gRiOqBZQ-3" value="附加插件库" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -76,17 +76,41 @@
         <mxCell id="caog0tyJu0MzEItGIJM4-5" value="打点审计&lt;br&gt;插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="745" y="379" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--2" value="&lt;b&gt;Config Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--2" value="&lt;b&gt;Config Server&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="3" y="129" width="890" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--3" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--3" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="122" y="179" width="141" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--4" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--4" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="393" y="179" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g6kbwPgoMr0WFrOHUzp--5" value="指令控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="g6kbwPgoMr0WFrOHUzp--5" value="指令控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="643" y="179" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-1" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="718" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-2" value="存储访问管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="786.5" width="204" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-3" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="746.5" width="204" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-4" value="元数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="746.5" width="65" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-5" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="1013" width="668" height="271" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-6" value="存储访问管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1072" width="385" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-7" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1182" width="385" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="g4aInVaGI_5vyMNu5kUT-8" value="元数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1072" width="135" height="189" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
