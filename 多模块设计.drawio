@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:08:02.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HgVVWs0WCvfroaDaJiN-" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:17:39.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="w675BdAQfyuObBLCkPmo" version="17.4.6" type="github">
   <diagram id="GQeWL2nTSIG87tDZNMUT" name="Page-1">
     <mxGraphModel dx="1698" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,13 +390,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-4" value="统一装配管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="336" y="3353" width="120" height="37" as="geometry" />
+          <mxGeometry x="330" y="3304" width="140.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-5" target="Lt2dIMI3tXLCkkfSVvTG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-5" value="插件调度管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="336" y="3428" width="120" height="37" as="geometry" />
+          <mxGeometry x="330" y="3392" width="141" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-6" target="Lt2dIMI3tXLCkkfSVvTG-7">
           <mxGeometry relative="1" as="geometry" />
@@ -407,16 +407,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-6" value="存储访问管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="336" y="3503" width="120" height="37" as="geometry" />
+          <mxGeometry x="330" y="3477" width="141" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="159" y="3592" width="154" height="190" as="geometry" />
+        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-7" value="storage chain1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="159" y="3592" width="154" height="195" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-13" target="Lt2dIMI3tXLCkkfSVvTG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-13" value="Local Cache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="174" y="3614.5" width="120" height="37" as="geometry" />
+          <mxGeometry x="174" y="3627.5" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-16" target="Lt2dIMI3tXLCkkfSVvTG-17">
           <mxGeometry relative="1" as="geometry" />
@@ -425,31 +425,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-16" value="Memcache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="174" y="3668.5" width="120" height="37" as="geometry" />
+          <mxGeometry x="174" y="3681.5" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-17" target="Lt2dIMI3tXLCkkfSVvTG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-17" value="Hbase1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="174" y="3722.5" width="120" height="37" as="geometry" />
+          <mxGeometry x="174" y="3735.5" width="120" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="3592" width="154" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="3614.5" width="120" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="3668.5" width="120" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="3722.5" width="120" height="37" as="geometry" />
+        <mxCell id="Lt2dIMI3tXLCkkfSVvTG-18" value="storage chain2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="3592" width="154" height="195" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-22" target="Lt2dIMI3tXLCkkfSVvTG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-22" value="Local Cache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="3614.5" width="120" height="37" as="geometry" />
+          <mxGeometry x="492.5" y="3627.5" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-23" target="Lt2dIMI3tXLCkkfSVvTG-24">
           <mxGeometry relative="1" as="geometry" />
@@ -458,13 +449,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-23" value="Memcache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="3668.5" width="120" height="37" as="geometry" />
+          <mxGeometry x="492.5" y="3681.5" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="Lt2dIMI3tXLCkkfSVvTG-24" target="Lt2dIMI3tXLCkkfSVvTG-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lt2dIMI3tXLCkkfSVvTG-24" value="Hbase2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="3722.5" width="120" height="37" as="geometry" />
+          <mxGeometry x="492.5" y="3735.5" width="120" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
