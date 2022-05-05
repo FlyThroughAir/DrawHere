@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T03:36:03.529Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hArX_LQOkm_rbSixNfqP" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T03:37:29.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="g9VfM2jaAMcjcPz4awTJ" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1298" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -274,6 +274,9 @@
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-5" value="核心模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="223" y="1144" width="387" height="350" as="geometry" />
         </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.544;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="6o36U2D6VR-3sPyrgqZQ-6" target="6o36U2D6VR-3sPyrgqZQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-6" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="249.5" y="1264" width="314.5" height="204.25" as="geometry" />
         </mxCell>
@@ -296,12 +299,6 @@
         </mxCell>
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;元&lt;br style=&quot;font-size: 16px;&quot;&gt;数&lt;br style=&quot;font-size: 16px;&quot;&gt;据&lt;br style=&quot;font-size: 16px;&quot;&gt;管&lt;br style=&quot;font-size: 16px;&quot;&gt;理&lt;br style=&quot;font-size: 16px;&quot;&gt;器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;" vertex="1" parent="1">
           <mxGeometry x="432" y="1303.25" width="110" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="6o36U2D6VR-3sPyrgqZQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.665;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6o36U2D6VR-3sPyrgqZQ-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="348" y="1469" as="sourcePoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;插件调度管理器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="284.25" y="1303.25" width="126.75" height="144.5" as="geometry" />
@@ -343,7 +340,7 @@
           <mxGeometry x="474" y="1327" width="47" height="101.25" as="geometry" />
         </mxCell>
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Storage&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="213" y="1516" width="203" height="38" as="geometry" />
+          <mxGeometry x="223" y="1516" width="193" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
