@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T14:05:41.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fekd_LNThyf0qszlUnOF" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T14:17:44.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vARWXeh5XWToEq1WsN78" version="17.4.6" type="github">
   <diagram id="V_NQ6YeQbFit21G6dxK0" name="Page-1">
     <mxGraphModel dx="1298" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,22 +244,22 @@
           <mxGeometry x="320.75" y="1609" width="62.25" height="32" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-43" value="上层业务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="78" y="2390" width="594" height="94" as="geometry" />
+          <mxGeometry x="78" y="2390" width="646" height="94" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-44" value="存储适配器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="79" y="2955" width="593" height="106" as="geometry" />
+          <mxGeometry x="79" y="2955" width="647" height="106" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-46" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="112" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-47" value="Memcache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="255" y="2985" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-48" value="Hbase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="397" y="2985" width="120" height="60" as="geometry" />
+          <mxGeometry x="437" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-52" value="Havok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="79" y="2494" width="593" height="448" as="geometry" />
+          <mxGeometry x="79" y="2494" width="646" height="448" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-57" value="直播" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="103.12" y="2428" width="120" height="44" as="geometry" />
@@ -271,7 +271,7 @@
           <mxGeometry x="473" y="2426" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-60" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fontSize=18;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="625" y="2426" width="35" height="44" as="geometry" />
+          <mxGeometry x="647" y="2426" width="35" height="44" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-64" value="访问模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="96" y="2591" width="492" height="55" as="geometry" />
@@ -304,7 +304,7 @@
           <mxGeometry x="116.62" y="2738" width="96" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-80" value="存储管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="95" y="2849" width="555" height="79" as="geometry" />
+          <mxGeometry x="95" y="2849" width="616" height="79" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-81" value="流量切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="200.25" y="2874" width="107.5" height="35" as="geometry" />
@@ -346,7 +346,10 @@
           <mxGeometry x="494.5" y="2874" width="107.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-99" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="534" y="2985" width="120" height="60" as="geometry" />
+          <mxGeometry x="576" y="2985" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-100" value="控&lt;br&gt;制&lt;br&gt;面&lt;br&gt;板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2527" width="51" height="309" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
