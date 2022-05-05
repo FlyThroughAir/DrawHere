@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T07:11:07.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="0GSG6Cx_En3C3W-c1OQ-" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T08:24:26.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="RnVhfEvMxS7MioIvfPLS" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1298" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-162" value="用户接口层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3444" width="393" height="301" as="geometry" />
+        </mxCell>
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-83" value="主调方" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="45" y="1914" width="383" height="193" as="geometry" />
         </mxCell>
@@ -600,6 +603,52 @@
         </mxCell>
         <mxCell id="6o36U2D6VR-3sPyrgqZQ-152" value="KConf" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="2567" width="246.75" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=1;" edge="1" parent="1" source="6o36U2D6VR-3sPyrgqZQ-155" target="6o36U2D6VR-3sPyrgqZQ-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-155" value="线程管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="81" y="3484" width="340" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-156" value="线程池A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="109.25" y="3532" width="116.75" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-158" value="任&lt;br&gt;务&lt;br&gt;队&lt;br&gt;列&lt;br&gt;A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="3572" width="57.5" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-160" value="线程池B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270.75" y="3532" width="116.75" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-161" value="任&lt;br&gt;务&lt;br&gt;队&lt;br&gt;列&lt;br&gt;B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="311" y="3572" width="57.5" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" edge="1" parent="1" source="6o36U2D6VR-3sPyrgqZQ-163" target="6o36U2D6VR-3sPyrgqZQ-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="3431" />
+              <mxPoint x="159" y="3431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;dashed=1;" edge="1" parent="1" source="6o36U2D6VR-3sPyrgqZQ-163" target="6o36U2D6VR-3sPyrgqZQ-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="3430" />
+              <mxPoint x="340" y="3430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-163" value="用户逻辑层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="52" y="3355" width="395" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;strokeWidth=1;" edge="1" parent="1" source="6o36U2D6VR-3sPyrgqZQ-166" target="6o36U2D6VR-3sPyrgqZQ-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-166" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3770" width="393" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6o36U2D6VR-3sPyrgqZQ-171" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="3866" width="393" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
