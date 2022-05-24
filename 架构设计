@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T17:01:09.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dRmeeolT3nwQExCiwJ6U" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T13:08:48.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="LCT71HztD1Av46-_fRqF" version="18.0.6" type="github">
   <diagram id="V_NQ6YeQbFit21G6dxK0" name="Page-1">
-    <mxGraphModel dx="1298" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4327" dy="2563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-124" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Havok SDK&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-124" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Havok SDK&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="877" y="2533" width="933" height="610" as="geometry" />
         </mxCell>
         <mxCell id="zO7TlOxyrzOrWe3tpxwk-1" value="&lt;b&gt;用户客户端&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=17;" parent="1" vertex="1">
@@ -150,238 +150,238 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;直连 SDK&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;直连 SDK&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="910" y="2575" width="890" height="548" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-3" value="附加模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-3" value="附加模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1310" y="2613" width="480" height="493" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-4" value="基础模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-4" value="基础模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="940" y="2613" width="350" height="494" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-5" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-5" value="统一链路层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="950" y="2772" width="264" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-6" value="存储管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-6" value="存储管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="950" y="2958" width="330" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-8" value="用户接口层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-8" value="用户接口层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="950" y="2650" width="330" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-9" value="HASH&lt;br&gt;协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-9" value="HASH&lt;br&gt;协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="966" y="3038" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-10" value="SCAN&lt;br&gt;协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-10" value="SCAN&lt;br&gt;协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1056" y="3038" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-11" value="KV协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-11" value="KV协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1146" y="3038" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-12" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-12" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1220" y="3038" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-13" value="流程控制插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-13" value="流程控制插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="1470" y="2671" width="140" height="418" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-14" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-14" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1482" y="2823" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-15" value="流量检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-15" value="流量检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1482" y="2768" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-16" value="存储访问插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-16" value="存储访问插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="1330" y="2670" width="120" height="419" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-17" value="redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-17" value="redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1344" y="2731" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-18" value="hbase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-18" value="hbase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1344" y="2798.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-19" value="kiwi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-19" value="kiwi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1344" y="2861" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-20" value="pika" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-20" value="pika" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1344" y="2926" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-21" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-21" value="插件管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="975" y="2846" width="210" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-22" value="数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-22" value="数据&lt;br&gt;管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1220" y="2772" width="60" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-23" value="监听插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-23" value="监听插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#FFFFFF;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="1630" y="2671" width="140" height="417" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-24" value="流量控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-24" value="流量控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1484" y="2711.5" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-25" value="打点审计&lt;br&gt;插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-25" value="打点审计&lt;br&gt;插件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1652" y="2730" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-26" value="&lt;b&gt;Havok 配置服务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-26" value="&lt;b&gt;Havok 配置服务&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="877" y="2419" width="935" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-27" value="API元数据缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-27" value="API元数据缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1001" y="2469" width="141" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-28" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-28" value="认证鉴权" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1272" y="2469" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-29" value="指令控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-29" value="指令控制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1522" y="2469" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-31" value="读协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-31" value="读协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="984" y="2677" width="107" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-34" value="异步线程池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-34" value="异步线程池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="975" y="2802.5" width="210" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-37" value="查询构建器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-37" value="查询构建器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="975" y="2715" width="276.75" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-38" value="写协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-38" value="写协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1124.63" y="2677" width="112.75" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-43" value="上层业务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-43" value="上层业务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="78" y="2390" width="646" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-44" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-44" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="79" y="2955" width="647" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-46" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-46" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="112" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-47" value="Memcache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-47" value="Memcache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="275" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-48" value="Hbase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-48" value="Hbase" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="437" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-52" value="Havok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-52" value="Havok" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="79" y="2494" width="646" height="448" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-57" value="直播" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-57" value="直播" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="103.12" y="2428" width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-58" value="电商" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-58" value="电商" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="289" y="2428" width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-59" value="商业化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-59" value="商业化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="473" y="2426" width="120" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-60" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fontSize=18;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-60" value="..." style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;fontSize=18;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="647" y="2426" width="35" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-64" value="访问模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-64" value="访问模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="96" y="2591" width="492" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-66" value="直连模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-66" value="直连模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="195" y="2601" width="141" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-70" value="代理模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-70" value="代理模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="373" y="2601" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-72" value="接口层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-72" value="接口层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="95" y="2527" width="493" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-73" value="查询协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-73" value="查询协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="170" y="2539" width="155" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-74" value="变更协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-74" value="变更协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="348" y="2539" width="172" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-75" value="执行层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-75" value="执行层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="96" y="2657" width="493" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-76" value="插件化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-76" value="插件化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="115.62" y="2688" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-78" value="全域保障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-78" value="全域保障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="599" y="2527" width="113" height="309" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-79" value="动态线程池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-79" value="动态线程池" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="116.62" y="2738" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-80" value="存储管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-80" value="存储管理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="95" y="2849" width="616" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-81" value="流量切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-81" value="流量切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="200.25" y="2874" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-82" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-82" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="2874" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-84" value="服务编排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-84" value="服务编排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="475.88" y="2788" width="89.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-86" value="降采样" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-86" value="降采样" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="2738" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-88" value="数据压缩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-88" value="数据压缩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="458.5" y="2737" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-89" value="多环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-89" value="多环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="2688" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-90" value="流量管控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-90" value="流量管控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="469.75" y="2688" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-91" value="权限管控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-91" value="权限管控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="228.5" y="2738" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-92" value="查询校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-92" value="查询校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="238.63" y="2788" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-93" value="多版本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-93" value="多版本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="237" y="2688" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-94" value="数据加解密" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-94" value="数据加解密" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="357.63" y="2788" width="96" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-98" value="适配协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-98" value="适配协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="494.5" y="2874" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-99" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-99" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="576" y="2985" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-118" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-118" value="元数据管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="116.62" y="2788" width="103" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-119" value="控制面板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-119" value="控制面板" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="611.5" y="2570" width="87" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-120" value="自动化测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-120" value="自动化测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="609.5" y="2643" width="92" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-121" value="监控告警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-121" value="监控告警" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="609.5" y="2716" width="92" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-122" value="哨兵探测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-122" value="哨兵探测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="609.5" y="2786" width="92" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-126" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-126" value="多级缓存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="966" y="2988.5" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-127" value="流量切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-127" value="流量切换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1112.5" y="2988.5" width="107.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-128" value="前置拦截器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-128" value="前置拦截器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="975" y="2892" width="99" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-129" value="后置拦截器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-129" value="后置拦截器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1086" y="2892" width="99" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-130" value="多环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-130" value="多环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1482" y="2878" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-131" value="数据压缩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-131" value="数据压缩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1482" y="2933" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-132" value="多版本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-132" value="多版本" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1482" y="2988" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-133" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="R-_ZjnoVi_uy0DL_l1Tu-133" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1482" y="3043" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
