@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T09:30:28.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZQtpyTJ02hCDQ53s5br_" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T09:32:19.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ytpb_DWxrO7dOvJMq9MI" version="20.5.1" type="github">
   <diagram id="vgTLXhpbnLsTqNlW0bMS" name="第 1 页">
     <mxGraphModel dx="2066" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="660" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="800" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="570" width="390" height="270" as="geometry" />
+          <mxGeometry x="310" y="710" width="390" height="270" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9247QZCKQvhFCrHQxRE-15" target="B9247QZCKQvhFCrHQxRE-17">
           <mxGeometry relative="1" as="geometry" />
@@ -50,16 +50,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-15" value="上传查询参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="B9247QZCKQvhFCrHQxRE-12" target="B9247QZCKQvhFCrHQxRE-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-17" value="返回queryId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-20" value="保存文件到blobstore" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-22" value="返回QueryId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
@@ -68,7 +68,13 @@
           <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9247QZCKQvhFCrHQxRE-26" value="异步查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B9247QZCKQvhFCrHQxRE-28" value="方案一：文件上传和参数上传分开进行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="380" y="530" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9247QZCKQvhFCrHQxRE-29" value="方案二：文件上传和参数上传一起" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1020" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
