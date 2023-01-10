@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T11:33:17.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="Ym2kvYEa3heQdp3m4QEl" type="github"><diagram id="738rLi_XImo8yUb1Dtmj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-10T13:51:36.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="Ptyv7mb579XtoB2ELGff" type="github">
+  <diagram id="dHrR71HzSHLAMjjxXmuo" name="第 1 页">
+    <mxGraphModel dx="1306" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9a4Nvgae0vwim2I87Gne-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="370" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-2" value="API服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-4" value="外部服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="180" width="500" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-11" value="请求队列（异步非阻塞有限队列）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-12" value="发送队列（异步非阻塞有限队列）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-17" value="查询取数 + 稳定保障" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="295" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=26;endSize=12.28;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.5" y="160" as="sourcePoint" />
+            <mxPoint x="265" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=26;endSize=12.28;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.5" y="410" as="sourcePoint" />
+            <mxPoint x="265" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-22" value="内部服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="560" width="370" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
