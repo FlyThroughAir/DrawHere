@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T14:04:33.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="Avq0g9A97YKqlx4hwCJQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T14:05:06.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="zZtHenvRd1BCpb76ZG5D" type="github">
   <diagram id="dHrR71HzSHLAMjjxXmuo" name="第 1 页">
     <mxGraphModel dx="1306" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9a4Nvgae0vwim2I87Gne-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="510" height="320" as="geometry" />
+          <mxGeometry x="190" y="191" width="510" height="320" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-11" value="请求队列（异步非阻塞有限队列）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="725" y="195" width="255" height="60" as="geometry" />
+          <mxGeometry x="395" y="216" width="255" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="9a4Nvgae0vwim2I87Gne-12" target="9a4Nvgae0vwim2I87Gne-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-12" value="发送队列（异步非阻塞有限队列）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="720" y="405" width="270" height="60" as="geometry" />
+          <mxGeometry x="390" y="426" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-24" value="高性能采集算法" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="725" y="305" width="245" height="45" as="geometry" />
+          <mxGeometry x="395" y="326" width="245" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;width=16;endSize=7.92;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="844.5" y="255" as="sourcePoint" />
-            <mxPoint x="844.5" y="302.5" as="targetPoint" />
+            <mxPoint x="514.5" y="276" as="sourcePoint" />
+            <mxPoint x="514.5" y="323.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;width=16;endSize=7.92;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="844.5" y="353" as="sourcePoint" />
-            <mxPoint x="844.5" y="400.5" as="targetPoint" />
+            <mxPoint x="514.5" y="374" as="sourcePoint" />
+            <mxPoint x="514.5" y="421.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-37" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="9a4Nvgae0vwim2I87Gne-29" target="9a4Nvgae0vwim2I87Gne-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="400" as="sourcePoint" />
-            <mxPoint x="610" y="350" as="targetPoint" />
+            <mxPoint x="230" y="421" as="sourcePoint" />
+            <mxPoint x="280" y="371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=50;endSize=31.67;width=54;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="79" as="sourcePoint" />
-            <mxPoint x="610" y="599" as="targetPoint" />
+            <mxPoint x="280" y="100" as="sourcePoint" />
+            <mxPoint x="280" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-29" value="主&lt;br style=&quot;font-size: 18px;&quot;&gt;流&lt;br style=&quot;font-size: 18px;&quot;&gt;程&lt;br style=&quot;font-size: 18px;&quot;&gt;请&lt;br style=&quot;font-size: 18px;&quot;&gt;求&lt;br style=&quot;font-size: 18px;&quot;&gt;流&lt;br style=&quot;font-size: 18px;&quot;&gt;量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="592" y="166" width="40" height="240" as="geometry" />
+          <mxGeometry x="262" y="187" width="40" height="240" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-39" value="外部存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="395" width="130" height="80" as="geometry" />
+          <mxGeometry x="760" y="416" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
