@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T14:03:29.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="93AhQb3AjN0K9_Uualx0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T14:03:48.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="ppLLjCV9QqQBvZW8DRfw" type="github">
   <diagram id="dHrR71HzSHLAMjjxXmuo" name="第 1 页">
     <mxGraphModel dx="1306" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-11" value="请求队列（异步非阻塞有限队列）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="725" y="195" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="9a4Nvgae0vwim2I87Gne-12" target="9a4Nvgae0vwim2I87Gne-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-12" value="发送队列（异步非阻塞有限队列）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="720" y="405" width="230" height="60" as="geometry" />
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="9a4Nvgae0vwim2I87Gne-29" value="主&lt;br style=&quot;font-size: 18px;&quot;&gt;流&lt;br style=&quot;font-size: 18px;&quot;&gt;程&lt;br style=&quot;font-size: 18px;&quot;&gt;请&lt;br style=&quot;font-size: 18px;&quot;&gt;求&lt;br style=&quot;font-size: 18px;&quot;&gt;流&lt;br style=&quot;font-size: 18px;&quot;&gt;量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="592" y="166" width="40" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9a4Nvgae0vwim2I87Gne-39" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="395" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
