@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T16:05:09.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tH6s4EhFIkFsE1z8TMk6" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T16:06:27.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0kSm_seuvn-9CmnPuhVo" version="20.8.13" type="github">
   <diagram id="rLf4FXjszSzX-VlUV55J" name="第 1 页">
     <mxGraphModel dx="1306" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,8 +202,8 @@
         <mxCell id="QaH9pcMFk9NIdjgZe4qk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaH9pcMFk9NIdjgZe4qk-20" target="QaH9pcMFk9NIdjgZe4qk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QaH9pcMFk9NIdjgZe4qk-20" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="314.75" width="120" height="46.25" as="geometry" />
+        <mxCell id="QaH9pcMFk9NIdjgZe4qk-20" value="Client" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="314.75" width="170" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="QaH9pcMFk9NIdjgZe4qk-22" value="多级缓存集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="178.62" width="120" height="60" as="geometry" />
@@ -246,6 +246,9 @@
         </mxCell>
         <mxCell id="QaH9pcMFk9NIdjgZe4qk-41" value="&lt;span style=&quot;font-size: 14px&quot;&gt;动态路由&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="664" y="337.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QaH9pcMFk9NIdjgZe4qk-43" value="动态路由" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="314.74" width="100" height="46.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
