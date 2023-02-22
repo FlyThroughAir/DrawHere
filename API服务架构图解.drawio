@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T16:04:45.926Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9Em08X21PgbApcDGfc8J" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T16:05:09.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tH6s4EhFIkFsE1z8TMk6" version="20.8.13" type="github">
   <diagram id="rLf4FXjszSzX-VlUV55J" name="第 1 页">
     <mxGraphModel dx="1306" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,10 +106,10 @@
         <mxCell id="-ezdxLTPiOgHRn06xlRN-34" value="Hbase" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="520" y="457.5" width="97" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-ezdxLTPiOgHRn06xlRN-35" value="KIWI" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+        <mxCell id="-ezdxLTPiOgHRn06xlRN-35" value="Memcache" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="680" y="457.5" width="97" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-ezdxLTPiOgHRn06xlRN-36" value="CK" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="-ezdxLTPiOgHRn06xlRN-36" value="Clickhouse" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="830" y="457.5" width="97" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-ezdxLTPiOgHRn06xlRN-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
