@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T16:07:25.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HK0UUKRfJ3rsaRNMU_Vt" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T16:07:45.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zwzblmRxa_008g-UslKI" version="20.8.13" type="github">
   <diagram id="rLf4FXjszSzX-VlUV55J" name="第 1 页">
     <mxGraphModel dx="1306" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QaH9pcMFk9NIdjgZe4qk-20" value="Client" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="314.75" width="170" height="46.25" as="geometry" />
+          <mxGeometry x="1710" y="314.75" width="170" height="46.25" as="geometry" />
         </mxCell>
         <mxCell id="QaH9pcMFk9NIdjgZe4qk-22" value="多级缓存集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2060" y="178.62" width="120" height="60" as="geometry" />
@@ -248,7 +248,7 @@
           <mxGeometry x="664" y="337.5" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QaH9pcMFk9NIdjgZe4qk-43" value="动态路由" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="314.74" width="100" height="46.25" as="geometry" />
+          <mxGeometry x="1780" y="314.74" width="100" height="46.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
