@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T06:00:12.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OMjf3yaAGKrBmbyz5Uo2" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T07:08:18.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Y7Or6G_8FTTSu-yvZ6BR" version="24.6.5" type="github">
   <diagram name="第 1 页" id="FTZ7WoVlrxoPDdT3iFCy">
     <mxGraphModel dx="1434" dy="710" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="3h8enQ3VkZ7n-lMxiWUe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3h8enQ3VkZ7n-lMxiWUe-13" target="3h8enQ3VkZ7n-lMxiWUe-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h8enQ3VkZ7n-lMxiWUe-25" value="触发词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="144" y="409" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3h8enQ3VkZ7n-lMxiWUe-26" value="命令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="146" y="515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
