@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="WWgQ3tUUA3AuB6e9XMpF">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="y20aVYX7Z3l52XozF9h6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="550" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-3" value="服务中间层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-5" value="APP层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-6" value="飞书端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-7" value="web端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-8" value="接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="350" width="350" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-9" value="路由层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="410" width="350" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-10" value="配置层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="470" width="350" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-11" value="问题理解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-12" value="豆包大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-13" value="向量数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-14" value="问题理解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
