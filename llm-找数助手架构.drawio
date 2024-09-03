@@ -31,7 +31,7 @@
         <mxCell id="y20aVYX7Z3l52XozF9h6-9" value="路由层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="409" width="350" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y20aVYX7Z3l52XozF9h6-10" value="配置层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y20aVYX7Z3l52XozF9h6-10" value="适配层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="469" width="350" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-11" value="问题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
