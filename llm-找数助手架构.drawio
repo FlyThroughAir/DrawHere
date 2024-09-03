@@ -41,7 +41,7 @@
           <mxGeometry x="465" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-13" value="向量数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="273" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-14" value="重排服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="600" width="120" height="60" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-39" value="人员组织数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="111" y="403" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y20aVYX7Z3l52XozF9h6-41" value="Coral数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
