@@ -19,11 +19,8 @@
         <mxCell id="y20aVYX7Z3l52XozF9h6-5" value="APP层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="395.25" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y20aVYX7Z3l52XozF9h6-6" value="飞书端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="130" width="180" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="y20aVYX7Z3l52XozF9h6-7" value="web端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="230" height="45" as="geometry" />
+        <mxCell id="y20aVYX7Z3l52XozF9h6-6" value="查询消费（）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="320" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="243" width="375" height="86" as="geometry" />
@@ -112,8 +109,8 @@
         <mxCell id="y20aVYX7Z3l52XozF9h6-41" value="Coral数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y20aVYX7Z3l52XozF9h6-42" value="其他openAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="130" width="180" height="45" as="geometry" />
+        <mxCell id="y20aVYX7Z3l52XozF9h6-42" value="生产管理（oncall沉淀、问题录入等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="325" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-43" value="总结沉淀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="393" width="80" height="40" as="geometry" />
