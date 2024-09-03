@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y20aVYX7Z3l52XozF9h6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="555" width="670" height="285" as="geometry" />
+          <mxGeometry x="60" y="555" width="750" height="205" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="210" width="750" height="330" as="geometry" />
@@ -35,25 +35,25 @@
           <mxGeometry x="239" y="468" width="375" height="45" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-11" value="问题服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="465" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-12" value="豆包大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="465" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-13" value="向量数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="273" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-14" value="重排服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-15" value="TCC配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-16" value="RDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="204" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-17" value="精排服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y20aVYX7Z3l52XozF9h6-19" value="基础设施层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="465" y="555" width="100" height="30" as="geometry" />
