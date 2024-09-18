@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="eamMsdwtu4UeMZCZsxqP">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="485" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-3" value="coral搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-6" value="coral问答" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-7" value="外部系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-8" value="召回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-9" value="排序" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-11" value="解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-12" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-13" value="资产信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="530" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-14" value="定制化规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="530" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-15" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LnjIlbvOi23F2FC-CPrr-16" value="基于规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="70" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
