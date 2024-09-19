@@ -41,16 +41,16 @@
           <mxGeometry x="430" y="530" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LnjIlbvOi23F2FC-CPrr-15" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="410" width="70" height="35" as="geometry" />
+          <mxGeometry x="240" y="410" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LnjIlbvOi23F2FC-CPrr-16" value="基于规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="410" width="70" height="35" as="geometry" />
+          <mxGeometry x="330" y="410" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LnjIlbvOi23F2FC-CPrr-18" value="&lt;div&gt;文本召回：&lt;/div&gt;&lt;div&gt;用户信息：&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;用户部门&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;浏览历史&lt;/div&gt;&lt;div&gt;语义召回：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="495" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LnjIlbvOi23F2FC-CPrr-19" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="410" width="70" height="35" as="geometry" />
+          <mxGeometry x="420" y="410" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="LnjIlbvOi23F2FC-CPrr-20" value="问题补全" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="70" height="35" as="geometry" />
