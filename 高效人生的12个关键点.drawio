@@ -291,6 +291,12 @@
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-93" value="不断更新" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2680" y="775" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-98" value="高效人生的12个关键点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="220" width="204" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-100" value="高效能人士的7个习惯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2178" y="220" width="204" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
