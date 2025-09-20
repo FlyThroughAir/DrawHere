@@ -170,7 +170,7 @@
           <mxGeometry x="1740" y="650" width="1080" height="320" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2068" y="1050" width="420" height="200" as="geometry" />
+          <mxGeometry x="2068" y="1050" width="482" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="270" width="680" height="320" as="geometry" />
@@ -220,14 +220,17 @@
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-66" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;贯穿全阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2430" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-67" target="MTEqC8o5SkFHYoEmAUZ_-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-67" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;个人成功维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2098" y="1080" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-68" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;公众成功维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2296" y="1080" width="160" height="60" as="geometry" />
+          <mxGeometry x="2360" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-69" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;持续更新维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2098" y="1160" width="360" height="60" as="geometry" />
+          <mxGeometry x="2098" y="1160" width="422" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-70" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-74" target="MTEqC8o5SkFHYoEmAUZ_-76">
           <mxGeometry relative="1" as="geometry">
