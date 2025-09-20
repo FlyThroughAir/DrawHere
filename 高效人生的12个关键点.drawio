@@ -167,10 +167,10 @@
           <mxGeometry x="1386" y="880" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="650" width="1080" height="320" as="geometry" />
+          <mxGeometry x="1740" y="650" width="1080" height="320" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="1010" width="420" height="200" as="geometry" />
+          <mxGeometry x="2068" y="1050" width="420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="270" width="680" height="320" as="geometry" />
@@ -220,18 +220,18 @@
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-66" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;贯穿全阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2430" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-67" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;目标驱动层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1040" width="170" height="60" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-67" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;个人成功维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2098" y="1080" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-68" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;行动落地层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2298" y="1040" width="160" height="60" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-68" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;公众成功维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2296" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-69" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;系统支撑层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1120" width="360" height="60" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-69" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;持续更新维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2098" y="1160" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-70" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-74" target="MTEqC8o5SkFHYoEmAUZ_-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1945.3945521380751" y="784.4397641023079" as="targetPoint" />
+            <mxPoint x="2005.3945521380751" y="784.4397641023079" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-74" target="MTEqC8o5SkFHYoEmAUZ_-75">
@@ -239,32 +239,24 @@
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-74" target="MTEqC8o5SkFHYoEmAUZ_-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1940" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-74" target="MTEqC8o5SkFHYoEmAUZ_-78">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1940" y="990" as="targetPoint" />
+            <mxPoint x="2000" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-74" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;个人成功维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-75" value="清晰目标" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="700" width="110" height="50" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-75" value="积极主动" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="725" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-76" value="积极心态" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="760" width="110" height="50" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-76" value="以终为始" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="785" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-77" value="持续学习" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="820" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-78" value="财务规划" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="880" width="110" height="50" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-77" value="要事第一" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="845" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-79" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-83" target="MTEqC8o5SkFHYoEmAUZ_-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2311.394552138075" y="779.4397641023079" as="targetPoint" />
+            <mxPoint x="2371.394552138075" y="779.4397641023079" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-83" target="MTEqC8o5SkFHYoEmAUZ_-84">
@@ -272,61 +264,29 @@
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-83" target="MTEqC8o5SkFHYoEmAUZ_-86">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2306" y="875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-83" target="MTEqC8o5SkFHYoEmAUZ_-87">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2306" y="985" as="targetPoint" />
+            <mxPoint x="2366" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-83" value="&lt;span style=&quot;color: rgb(31, 35, 41); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start; white-space-collapse: preserve;&quot;&gt;公众成功维度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2076" y="775" width="120" height="60" as="geometry" />
+          <mxGeometry x="2136" y="775" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-84" value="优先级管理" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2251" y="695" width="110" height="50" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-84" value="双赢思维" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2311" y="720" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-85" value="时间管理" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2251" y="755" width="110" height="50" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-85" value="知彼解己" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2311" y="780" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-86" value="深度工作" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2251" y="815" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-87" value="执行力强化" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2251" y="875" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-88" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-92" target="MTEqC8o5SkFHYoEmAUZ_-94">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2676.394552138075" y="774.4397641023079" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-86" value="综合综效" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2311" y="840" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-92" target="MTEqC8o5SkFHYoEmAUZ_-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-92" target="MTEqC8o5SkFHYoEmAUZ_-95">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2671" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTEqC8o5SkFHYoEmAUZ_-92" target="MTEqC8o5SkFHYoEmAUZ_-96">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2671" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MTEqC8o5SkFHYoEmAUZ_-92" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#1f2329&quot;&gt;持续更新维度&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2441" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="2501" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-93" value="身心健康" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="690" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-94" value="优质人际关系" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="750" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-95" value="简化与断舍离" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="810" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-96" value="复盘调整" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="870" width="110" height="50" as="geometry" />
+        <mxCell id="MTEqC8o5SkFHYoEmAUZ_-93" value="不断更新" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="775" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
